@@ -8,3 +8,8 @@ StatefulWidget are all the widget that interally have a dynamic value that can c
 
 ## StatelessWidget
 StatelessWidget are components that are rendered and keep that value (Immutable). A refresh by a parent is needed to update the content. It can receive a value from the constructor.
+
+| Widget | Description |
+| --- | ----------- |
+| MaterialApp | MaterialApp |
+| Scaffold | Text |
